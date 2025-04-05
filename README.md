@@ -2,7 +2,7 @@
 <h3 align="center">Active fullstack developer from Uzbekistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirkamolhomidov" alt="mirkamolhomidov" /></a> </p>
-
+<a href="https://wakatimae.com/@59e2449d-7bf4-438f-b349-3b17d96c11bb"><img src="https://wakatime.com/badge/user/59e2449d-7bf4-438f-b349-3b17d96c11bb.svg" alt="Total time coded since Apr 5 2025" /></a>
 <p align="left"> <a href="https://twitter.com/mirkamolusa" target="blank"><img src="https://img.shields.io/twitter/follow/mirkamolusa?logo=twitter&style=for-the-badge" alt="mirkamolusa" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js and Vue.js**
