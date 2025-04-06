@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirkamolhomidov" alt="mirkamolhomidov" /></a> </p>
 <a href="https://wakatime.com/badge/user/e924a12a-ade8-4a55-bb54-6ba5d29b1dce/project/92d0007d-2576-4630-9068-01ad5bf09d28"><img src="https://wakatime.com/badge/user/e924a12a-ade8-4a55-bb54-6ba5d29b1dce/project/92d0007d-2576-4630-9068-01ad5bf09d28.svg" alt="wakatime"></a>
+</br>
 - 🌱 I’m currently learning **Node.js and Vue.js**
 
 - 📧 How to reach me **mirkamolusa@gmail.com**
