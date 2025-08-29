@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/hVX6r4kDu00AAAAm/ai-grok.webp" width="90%" height='50%' style="border-radius: 5px;" />
+<img src="https://media.tenor.com/hVX6r4kDu00AAAAm/ai-grok.webp" weight="90%" height='50%' style="border-radius: 5px;" />
 <h1 align="center">Hi 👋, I'm Mirkamol</h1>
 <h3 align="center">A self-confident developer from Uzbekistan</h3>
 
