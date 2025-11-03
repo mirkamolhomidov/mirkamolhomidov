@@ -86,16 +86,20 @@
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" alt="sklearn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer">
-    <img src="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3dtLTE3MDUyNC1jbS0wMDYtMS5wbmc.png" alt="yolo" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png" alt="opencv" width="40" height="40"/>
-  </a>
+  </a><!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/valohai/ml-logos@master/scikit-learn.svg" alt="sklearn" width="40" height="40"/>
+</a>
+
+<!-- YOLO (Ultralytics) -->
+<a href="https://github.com/ultralytics" target="_blank" rel="noreferrer">
+  <img src="https://e7.pngegg.com/pngimages/437/823/png-clipart-yolo-object-detection-darknet-opencv-convolutional-neural-network-joint-miscellaneous-text-thumbnail.png" alt="yolo" width="40" height="40"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+</a>
 </p>
 
 
