@@ -88,10 +88,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="sklearn" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" alt="sklearn" width="40" height="40"/>
   </a>
   <a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ultralytics/assets/master/logo/yolo-black.png" alt="yolo" width="40" height="40"/>
+    <img src="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3dtLTE3MDUyNC1jbS0wMDYtMS5wbmc.png" alt="yolo" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png" alt="yolo" width="40" height="40"/>
   </a>
 </p>
 
